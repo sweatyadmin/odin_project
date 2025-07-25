@@ -8,7 +8,11 @@
 | Project | Concepts Learned | Live Preview |  
 |---------|------------------|--------------|  
 
-## 🖼️ Asset Credits  
+## 🖼️ Asset Credits 
+| Image | Artist | License | Source |
+|-------|--------|---------|--------|
+| [Stańczyk] | Jan Matejko | Public Domain | [Wikimedia] |
+
 See [/resources/credits.txt](../resources/credits.txt) for image attributions.
 
 ### 🗂️ Project Structure  
@@ -16,8 +20,8 @@ See [/resources/credits.txt](../resources/credits.txt) for image attributions.
 /odin-project  
 ├── foundation/  
 │   └── project-1/                   # Multi-page website  
-│       ├── index.html               # Main page  
 │       ├── about.html               # Secondary page  
+│       ├── index.html               # Main page  
 │       ├── contact.html             # Tertiary page  
 │       ├── assets/                  # Project-specific media  
 │       │   ├── images/              # Local images  
